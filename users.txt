@@ -3,3 +3,4 @@ user1|pass123|False|True
 user2|pass456|False|False
 manager|mgr789|True|True
 andrew|@Andrew0514|True|True
+acbaldonado|@Andrew0514|True|True
